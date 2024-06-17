@@ -39,15 +39,15 @@ education:
     title: Classes
     info:
       - degree: College Algebra & Trigonometry
-        university:
+        university: Functions and graphs. Equations and inequalities. Exponential and logarithmic functions. Trigonometric functions. Systems of equations. Binomial theorem.
         time: MTH 116
         
       - degree: IS Biology Lab
-        university: North Central Michigan College
+        university: Problem solving activities based on observation and interpretation of selected biological systems.
         time: ISB 208L
         
       - degree:  Applied Environmental & Organismal Bio
-        university: Harbor Springs High School
+        university: Historical and recent development of ideas about behavior, ecological, and evolutionary processes. Critical evaluation of the use and misuse of human understanding of nature, emphasizing recent findings.
         time: ISB 202
         
       - degree: Algorithmic Thinking/Programming
