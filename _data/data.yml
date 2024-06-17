@@ -70,6 +70,26 @@ education:
         university:
         time: CSE231
 
+         - degree: Algorithmic Thinking/Programming
+        university:
+        time: CSE102
+        
+      - degree: Introductory Physiology
+        university:
+        time: PSL 250
+        
+      - degree: Physics Lab for Scientists I
+        university: North Central Michigan College
+        time: PHY 191
+        
+      - degree: Phys Scientists & Engineers I
+        university: Harbor Springs High School
+        time: PHY 183
+        
+      - degree:  Multivariable Calculus
+        university:
+        time: MTH 234
+
         
 
 
