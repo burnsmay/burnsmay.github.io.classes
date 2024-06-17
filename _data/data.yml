@@ -51,43 +51,40 @@ education:
         time: ISB 202
         
       - degree: Algorithmic Thinking/Programming
-        university:
-        time: CSE102
+        university: The fundamentals of computing, algorithms and programming, using a high-level language such as Python. Integrating programs with other applications.
+        time: CSE 102
         
       - degree: Elementary Spanish II
-        university:
+        university: Further practice in using and understanding Spanish to develop listening, speaking, reading, and writing skills. Pronunciation, grammar, vocabulary, and cultural topics.
         time: SPN 102
         
       - degree: Calculus I
-        university: North Central Michigan College
+        university: Limits, continuous functions, derivatives and their applications. Integrals and the fundamental theorem of calculus.
         time: MTH 132
         
       - degree:  Intro to Engineering Design
-        university: Harbor Springs High School
+        university: Engineering design process as modeled by team-based, interdisciplinary design projects. Roles of engineers and the contributions of engineering in society. Project management, and design of products and processes to specified outcomes under specified constraints. Introduction to computing tools and physical equipment in support of engineering design. Engineering ethics.
         time: EGR 100
         
       - degree: Introduction to Programming I
-        university:
-        time: CSE231
+        university: Introduction to programming using Python. Design, implementation and testing of programs to solve problems such as those in engineering, mathematics and science. Programming fundamentals, functions, objects, and use of libraries of functions.
+        time: CSE 231
 
-      - degree: Algorithmic Thinking/Programming
-        university:
-        time: CSE102
-        
+
       - degree: Introductory Physiology
-        university:
+        university: Function, regulation and integration of organs and organ systems of higher animals emphasizing human physiology.
         time: PSL 250
         
       - degree: Physics Lab for Scientists I
-        university: North Central Michigan College
+        university: Error analysis, exercises in motion, forces, conservation laws and some electricity & magnetism studies.
         time: PHY 191
         
       - degree: Phys Scientists & Engineers I
-        university: Harbor Springs High School
+        university: Mechanics, Newton's laws, momentum, energy conservation laws, rotational motion, oscillation, gravity, waves.
         time: PHY 183
         
       - degree:  Multivariable Calculus
-        university:
+        university: Vectors in space. Functions of several variables and partial differentiation. Multiple integrals. Line and surface integrals. Green's and Stokes's theorems.
         time: MTH 234
 
         
