@@ -53,6 +53,24 @@ education:
       - degree: Algorithmic Thinking/Programming
         university:
         time: CSE102
+        
+      - degree: Elementary Spanish II
+        university:
+        time: SPN 102
+        
+      - degree: Calculus I
+        university: North Central Michigan College
+        time: MTH 132
+        
+      - degree:  Intro to Engineering Design
+        university: Harbor Springs High School
+        time: EGR 100
+        
+      - degree: Introduction to Programming I
+        university:
+        time: CSE231
+
+        
 
 
 
